@@ -1,5 +1,5 @@
 # Projeto kube-news
-Projeto feito durante a ImersaoDevOps&amp;&amp;Cloud utilizando NodeJS e containers Docker 
+Projeto feito durante a ImersaoDevOps&amp;&amp;Cloud 
 
 ### Objetivo
 O projeto Kube-news é uma aplicação escrita em NodeJS e tem como objetivo ser uma aplicação de exemplo pra trabalhar com o uso de containers.
